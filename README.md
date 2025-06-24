@@ -115,7 +115,7 @@ Developed as a Capstone Project for the **Master Data Science Program** by GUVI.
 Thank you for checking out this project!
 Connect with me:
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/anvitha-shetty/)
+* 💼 [LinkedIn](www.linkedin.com/in/shettyanvitha/)
 * 💻 [GitHub]((https://github.com/Anvithashetty21))
 
 
